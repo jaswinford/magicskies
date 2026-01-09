@@ -1,0 +1,13 @@
+name = "Magic Skies"
+author = "Adam"
+version = "2.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "900e43bff28fe179f7b1d931718e36e08728c1fe9b71b4516b1becfe3e544100"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.217"
